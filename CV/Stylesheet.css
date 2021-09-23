@@ -1,0 +1,32 @@
+.resume_header
+{
+text-align: center;
+font-size: 20px;
+color: white;
+background-color: darkgrey;
+}
+
+.header_Link
+{
+    
+    float: left;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    background-color:darkgrey;
+padding: 5px;    
+
+}
+a{
+    text-decoration: none;
+}
+a:hover
+{
+    
+    color:white;
+}
+.profile_img
+{
+float: center;
+border-radius: 50px;
+}
